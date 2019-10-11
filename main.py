@@ -1,3 +1,8 @@
+'''
+    @author : Victor Mesquita
+    @param  : Not
+    @libraries : Requests, BeautifulSoup, Pandas, Numpy
+'''
 import requests
 import bs4
 import pandas as pd
